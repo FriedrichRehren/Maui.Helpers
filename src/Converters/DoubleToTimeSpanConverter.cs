@@ -1,6 +1,6 @@
-﻿using System.Globalization;
+﻿namespace FriedrichRehren.Maui.Helpers.Converters;
 
-namespace FriedrichRehren.Maui.Helpers.Converters;
+using System.Globalization;
 
 public class DoubleToTimeSpanConverter : IValueConverter
 {
